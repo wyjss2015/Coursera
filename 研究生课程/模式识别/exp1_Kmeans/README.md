@@ -8,4 +8,4 @@
 * **Labels:** [SampleLabels.csv](SampleLabels.csv)
 * **Code:** [kmeans2.py](kmeans2.py)
 * **Data Analysis:** [kmeans2.ipynb](kmeans2.ipynb)
-* **Result: ** [mnist.png](mnist.png)
+* **Result:** [mnist.png](mnist.png)
